@@ -9,7 +9,7 @@
   "types": "ng2-select2.d.ts",
   "repository": {
     "type": "git",
-    "url": "github.com/sandeepkundu4344/ng2-select2-sandeep.git"
+    "url": "https://github.com/sandeepkundu4344/ng2-select2-sandeep.git"
   },
   "keywords": [
     "angular2",
